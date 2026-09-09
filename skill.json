@@ -1,0 +1,13 @@
+{
+  "name": "genpark-karger-randomized-min-cut-skill",
+  "version": "1.0.0",
+  "description": "Karger's randomized contraction algorithm finding global minimum cuts in multigraph networks via recursive random edge collapses in pure Python.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "karger-algorithm",
+    "randomized-algorithms",
+    "min-cut",
+    "graph-theory"
+  ]
+}
